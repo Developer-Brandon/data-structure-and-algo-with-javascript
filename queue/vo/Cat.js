@@ -1,6 +1,6 @@
 class Cat {
 	constructor(index, name) {
-		this._index = 0
+		this._index = index
 		this._name = name
 	}
 }

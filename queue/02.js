@@ -37,3 +37,12 @@ console.log('\n\n')
 */
 
 const priorityQueue = require('./library/PriorityQueue.js')
+const pqueue = new priorityQueue()
+pqueue.enqueue(new Cat(1, "somi"))
+pqueue.enqueue(new Cat(2, "sumi"))
+pqueue.enqueue(new Cat(3, "semi"))
+console.log(pqueue)
+pqueue.dequeue()
+console.log(pqueue)
+console.log('\n\n')
+
