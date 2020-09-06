@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/05.linked-list-manager/05.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05.linked-list-manager/library/NodeManager.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05.linked-list-manager/vo/Node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.algo-entry/06.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/04.linked-list/04.js" afterPath="$PROJECT_DIR$/04.linked-list/04.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,13 +28,13 @@
         <entry file="file://$PROJECT_DIR$/04.linked-list/04.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Node.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05.linked-list-manager/vo/Node.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
@@ -47,11 +44,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="06.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06.algo-entry/06.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="NodeManager.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05.linked-list-manager/library/NodeManager.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="455">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+              <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -61,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/05.linked-list-manager/05.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/04.linked-list/vo/Node.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,16 +99,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cat.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.queue/vo/Cat.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,6 +156,7 @@
         <option value="$PROJECT_DIR$/05.linked-list-manager/library/NodeManager.js" />
         <option value="$PROJECT_DIR$/04.linked-list/04.js" />
         <option value="$PROJECT_DIR$/05.linked-list-manager/05.js" />
+        <option value="$PROJECT_DIR$/06.algo-entry/06.js" />
       </list>
     </option>
   </component>
@@ -175,8 +173,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="961" />
-    <option name="y" value="6" />
+    <option name="x" value="2862" />
+    <option name="y" value="2" />
     <option name="width" value="978" />
     <option name="height" value="1080" />
   </component>
@@ -347,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.05.js">
+  <component name="RunManager" selected="Node.js.06.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -392,6 +390,7 @@
     <configuration name="03.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03.js" working-dir="$PROJECT_DIR$/03.stack" />
     <configuration name="04.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04.js" working-dir="$PROJECT_DIR$/04.linked-list" />
     <configuration name="05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05.js" working-dir="$PROJECT_DIR$/05.linked-list-manager" />
+    <configuration name="06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06.js" working-dir="$PROJECT_DIR$/06.algo-entry" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -432,18 +431,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.02.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.03.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.04.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.05.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.06.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.05.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.04.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.06.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02.js" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +469,7 @@
       <workItem from="1598772714324" duration="2930000" />
       <workItem from="1598775866459" duration="29928000" />
       <workItem from="1599095312032" duration="1211000" />
-      <workItem from="1599152324802" duration="18651000" />
+      <workItem from="1599152324802" duration="20193000" />
     </task>
     <task id="LOCAL-00001" summary="- Stack 구현">
       <created>1598806971966</created>
@@ -484,14 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599233434224</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- linked list has finished">
+      <created>1599404322384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599404322384</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52720000" />
+    <option name="totallyTimeSpent" value="54262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="961" y="6" width="978" height="1080" extended-state="0" />
+    <frame x="2862" y="2" width="978" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -513,7 +521,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4045881" sideWeight="0.4847682" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4045881" sideWeight="0.4847682" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.4794702" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23554604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -539,7 +547,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Stack 구현" />
     <MESSAGE value="- LinkedList is developing" />
-    <option name="LAST_COMMIT_MESSAGE" value="- LinkedList is developing" />
+    <MESSAGE value="- linked list has finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- linked list has finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -698,7 +707,7 @@
     <entry file="file://$PROJECT_DIR$/04.linked-list/vo/Node.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -706,7 +715,7 @@
     <entry file="file://$PROJECT_DIR$/04.linked-list/04.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -714,7 +723,7 @@
     <entry file="file://$PROJECT_DIR$/05.linked-list-manager/05.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -722,7 +731,7 @@
     <entry file="file://$PROJECT_DIR$/05.linked-list-manager/library/NodeManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -731,6 +740,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.algo-entry/06.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
