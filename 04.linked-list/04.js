@@ -31,7 +31,7 @@ initData()
 
 ///// 출력
 console.log('\n\n')
-console.log('1.링크드 리스트 간단 구현하기')
+console.log('링크드 리스트 간단 구현하기')
 printAll()
 
 // 중간에 링크드 리스트 값 넣기
@@ -58,6 +58,6 @@ function insertMiddleNodeInList(data) {
 ///// 출력
 
 console.log('\n\n')
-console.log('2.간단하게 구현된 링크드 리스트의 중간에 데이터 삽입하기')
+console.log('간단하게 구현된 링크드 리스트의 중간에 데이터 삽입하기')
 insertMiddleNodeInList(4.5)
 printAll()
