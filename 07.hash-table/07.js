@@ -27,7 +27,7 @@ function hashKeyFunction(key) {
 let key1, key2, key3
 
 function makeDummyDataForKey() {
-	key1 = 'brandon', key2 = 'harry', key3 =  'mac'
+	key1 = 'brandon', key2 = 'harry', key3 = 'mac'
 }
 
 function printAsciiCodeOfKeyDatas() {
@@ -51,7 +51,6 @@ printHashCodeOfKeyDatas()
 console.log('\n\n')
 console.log('####################')
 console.log('\n\n')
-
 
 console.log('3. 해쉬테이블에 저장하고싶은 데이터를 키와 같이 저장하기')
 

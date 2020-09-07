@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/07.hash-table/07.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/07.hash-table/07.js" afterPath="$PROJECT_DIR$/07.hash-table/07.js" />
+      <change beforePath="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js" afterPath="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,16 +36,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.linked-list-manager/vo/Node.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="06.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06.algo-entry/06.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,18 +49,28 @@
       <file leaf-file-name="07.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07.hash-table/07.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+            <state relative-caret-position="85">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="08.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="389">
+              <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -97,16 +98,6 @@
       </file>
       <file leaf-file-name="Node.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04.linked-list/vo/Node.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cat.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.stack/vo/Cat.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -159,8 +150,11 @@
         <option value="$PROJECT_DIR$/05.linked-list-manager/05.js" />
         <option value="$PROJECT_DIR$/06.algo-entry/06.js" />
         <option value="$PROJECT_DIR$/07.hash-table/07'.js" />
-        <option value="$PROJECT_DIR$/07.hash-table/07.js" />
         <option value="$PROJECT_DIR$/08.hash-table-solve-collision/08.js" />
+        <option value="$PROJECT_DIR$/07.hash-table/07.js" />
+        <option value="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/09.js" />
+        <option value="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js" />
+        <option value="$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js" />
       </list>
     </option>
   </component>
@@ -294,6 +288,11 @@
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
               <item name="08.hash-table-solve-collision-by-chaining" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="09.hash-table-solve-collision-by-linear" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -347,6 +346,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/09.hash-table-solve-collision-by-linear" />
       <recent name="$PROJECT_DIR$/queue/library" />
       <recent name="$PROJECT_DIR$/queue/vo" />
     </key>
@@ -363,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.08.js">
+  <component name="RunManager" selected="Node.js.09.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -404,11 +404,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="04.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04.js" working-dir="$PROJECT_DIR$/04.linked-list" />
     <configuration name="05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05.js" working-dir="$PROJECT_DIR$/05.linked-list-manager" />
     <configuration name="06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06.js" working-dir="$PROJECT_DIR$/06.algo-entry" />
     <configuration name="07.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="07.js" working-dir="$PROJECT_DIR$/07.hash-table" />
     <configuration name="08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js" working-dir="$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining" />
+    <configuration name="09.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="09.js" working-dir="$PROJECT_DIR$/09.hash-table-solve-collision-by-linear" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -450,19 +450,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.04.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.07.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.08.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.06.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.07.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.08.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.09.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.08.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.04.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.09.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.08.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.07.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.06.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05.js" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +487,7 @@
       <workItem from="1598772714324" duration="2930000" />
       <workItem from="1598775866459" duration="29928000" />
       <workItem from="1599095312032" duration="1211000" />
-      <workItem from="1599152324802" duration="31082000" />
+      <workItem from="1599152324802" duration="33617000" />
     </task>
     <task id="LOCAL-00001" summary="- Stack 구현">
       <created>1598806971966</created>
@@ -517,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599433752671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- HashTable was finished&#10;- HasTable collision is solved by chaining has finished">
+      <created>1599492183709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599492183709</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65151000" />
+    <option name="totallyTimeSpent" value="67686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2859" y="0" width="978" height="1080" extended-state="0" />
@@ -574,7 +581,8 @@
     <MESSAGE value="- LinkedList is developing" />
     <MESSAGE value="- linked list has finished" />
     <MESSAGE value="- Algo entry section has finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Algo entry section has finished" />
+    <MESSAGE value="- HashTable was finished&#10;- HasTable collision is solved by chaining has finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- HashTable was finished&#10;- HasTable collision is solved by chaining has finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -786,18 +794,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07.hash-table/07.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+        <state relative-caret-position="85">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="389">
+          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
           <folding />
         </state>
       </provider>

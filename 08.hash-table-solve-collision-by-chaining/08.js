@@ -22,11 +22,11 @@ function selectHashCodeByKey(key) {
 	return hashFunc(getHashKey(key))
 }
 
-function saveValue(key,value) {
+function saveValue(key, value) {
 	let indexOfKey = getHashKey(key)
 	let hashCode = hashFunc(indexOfKey)
 	if (hashTable[hashCode] !== 0) {
-		for (let i=0; i < parseInt(hashTable[hashCode].length); i++) {
+		for (let i = 0; i < parseInt(hashTable[hashCode]); i++) {
 			if (hashTable[hashCode][i][0] === indexOfKey) {
 				hashTable[hashCode][i][1] = value
 				return
@@ -42,7 +42,7 @@ function selectValueByKey(key) {
 	let indexOfKey = getHashKey(key)
 	let hashCode = hashFunc(indexOfKey)
 	if (hashTable[hashCode] !== 0) {
-		for (let i = 0; i < parseInt(hashTable[hashCode].length); i++) {
+		for (let i = 0; i < parseInt(hashTable[hashCode]); i++) {
 			if (hashTable[hashCode][i][0] === indexOfKey) {
 				return hashTable[hashCode][i][1]
 			}
