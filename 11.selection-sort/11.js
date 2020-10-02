@@ -22,5 +22,3 @@ for (let i = 0; i < 100; i++) {
 
 console.log('\n정렬 전: ', randomList)
 console.log('\n정렬 후: ', selectionSort(randomList))
-
-
