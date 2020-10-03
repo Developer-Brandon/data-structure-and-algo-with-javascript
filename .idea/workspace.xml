@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/16.binary-search/16.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/17.sequential-search/17.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="연습장.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/연습장.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="10.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.bubble-sort/10.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="16.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/16.binary-search/16.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="422">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17.sequential-search/17.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -184,6 +184,8 @@
         <option value="$PROJECT_DIR$/15.js" />
         <option value="$PROJECT_DIR$/15.merge-sort/15.js" />
         <option value="$PROJECT_DIR$/16.binary-search/16.js" />
+        <option value="$PROJECT_DIR$/17.sequetial-search/17.js" />
+        <option value="$PROJECT_DIR$/17.sequential-search/17.js" />
       </list>
     </option>
   </component>
@@ -271,6 +273,11 @@
               <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="17.sequential-search" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -340,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.16.js">
+  <component name="RunManager" selected="Node.js.17.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -381,11 +388,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="12.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="12.js" working-dir="$PROJECT_DIR$/12.insertion-sort" />
     <configuration name="13.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="13.js" working-dir="$PROJECT_DIR$/13.about-recursive" />
     <configuration name="14.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="14.js" working-dir="$PROJECT_DIR$/14.quick-sort" />
     <configuration name="15.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="15.js" working-dir="$PROJECT_DIR$/15.merge-sort" />
     <configuration name="16.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="16.js" working-dir="$PROJECT_DIR$/16.binary-search" />
+    <configuration name="17.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="17.js" working-dir="$PROJECT_DIR$/17.sequential-search" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -427,19 +434,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.12.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.13.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.14.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.15.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.16.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.13.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.14.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.15.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.16.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.17.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.16.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.15.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.14.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.13.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.12.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.17.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.16.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.15.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.14.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.13.js" />
       </list>
     </recent_temporary>
   </component>
@@ -539,11 +546,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601725913007</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- Binary search is finished">
+      <created>1601730466316</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601730466316</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118419000" />
+    <option name="totallyTimeSpent" value="120598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="966" y="0" width="957" height="1080" extended-state="0" />
@@ -654,7 +668,8 @@
     <MESSAGE value="- Recursive call finished" />
     <MESSAGE value="- Quick sort finished" />
     <MESSAGE value="- Merged sort finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Merged sort finished" />
+    <MESSAGE value="- Binary search is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Binary search is finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -678,13 +693,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05.linked-list-manager/library/NodeManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05.linked-list-manager/05.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1043,8 +1051,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/16.binary-search/16.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="422">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.sequential-search/17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
