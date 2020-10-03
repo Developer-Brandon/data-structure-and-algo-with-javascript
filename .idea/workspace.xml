@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/15.merge-sort/15.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/14.quick-sort/14.js" afterPath="$PROJECT_DIR$/14.quick-sort/14.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="09.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="54" column="27" lean-forward="false" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="01.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.array/01.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14.quick-sort/14.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15.merge-sort/15.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="377">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -180,6 +180,8 @@
         <option value="$PROJECT_DIR$/13.about-recursive/13.py" />
         <option value="$PROJECT_DIR$/13.about-recursive/13.js" />
         <option value="$PROJECT_DIR$/14.quick-sort/14.js" />
+        <option value="$PROJECT_DIR$/15.js" />
+        <option value="$PROJECT_DIR$/15.merge-sort/15.js" />
       </list>
     </option>
   </component>
@@ -270,27 +272,12 @@
             <path>
               <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="10.bubble-sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="11.selection-sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="12.insertion-sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="13.about-recursive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
               <item name="14.quick-sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="15.merge-sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -343,6 +330,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/15.merge-sort" />
       <recent name="$PROJECT_DIR$/09.hash-table-solve-collision-by-linear" />
       <recent name="$PROJECT_DIR$/queue/library" />
       <recent name="$PROJECT_DIR$/queue/vo" />
@@ -360,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.14.js">
+  <component name="RunManager" selected="Node.js.15.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -401,11 +389,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="10.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="10.js" working-dir="$PROJECT_DIR$/10.bubble-sort" />
     <configuration name="11.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/11.selection-sort/11.js" working-dir="$PROJECT_DIR$/11.selection-sort" />
     <configuration name="12.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="12.js" working-dir="$PROJECT_DIR$/12.insertion-sort" />
     <configuration name="13.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="13.js" working-dir="$PROJECT_DIR$/13.about-recursive" />
     <configuration name="14.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="14.js" working-dir="$PROJECT_DIR$/14.quick-sort" />
+    <configuration name="15.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="15.js" working-dir="$PROJECT_DIR$/15.merge-sort" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -447,19 +435,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.10.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.11.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.12.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.13.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.14.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.11.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.12.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.13.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.14.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.15.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.14.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.13.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.12.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.11.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.10.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.15.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.14.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.13.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.12.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.11.js" />
       </list>
     </recent_temporary>
   </component>
@@ -545,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601707391723</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- Quick sort finished">
+      <created>1601709582918</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601709582918</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109708000" />
+    <option name="totallyTimeSpent" value="116004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="966" y="0" width="957" height="1080" extended-state="0" />
@@ -658,7 +653,8 @@
     <MESSAGE value="- HashTable was finished&#10;- HasTable collision is solved by chaining has finished" />
     <MESSAGE value="- HasTable collision is solved by linear has finished&#10;- Bug fix" />
     <MESSAGE value="- Recursive call finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Recursive call finished" />
+    <MESSAGE value="- Quick sort finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Quick sort finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -682,14 +678,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07.hash-table/07.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08.hash-table-solve-collision-by-chaining/08.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="533">
@@ -1047,8 +1035,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/14.quick-sort/14.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.merge-sort/15.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding />
         </state>
       </provider>
