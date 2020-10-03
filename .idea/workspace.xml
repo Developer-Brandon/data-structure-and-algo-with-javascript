@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="-">
-      <change beforePath="" afterPath="$PROJECT_DIR$/13.about-recursive/13.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/14.quick-sort/14.js" />
+    <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/14.quick-sort/14.js" afterPath="$PROJECT_DIR$/14.quick-sort/14.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="13.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="13.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13.about-recursive/13.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
@@ -75,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="14.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/14.quick-sort/14.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="377">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -288,6 +287,11 @@
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
               <item name="13.about-recursive" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="14.quick-sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -356,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.13.js">
+  <component name="RunManager" selected="Node.js.14.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -397,11 +401,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01.js" working-dir="$PROJECT_DIR$/01.array" />
     <configuration name="10.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="10.js" working-dir="$PROJECT_DIR$/10.bubble-sort" />
     <configuration name="11.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/11.selection-sort/11.js" working-dir="$PROJECT_DIR$/11.selection-sort" />
     <configuration name="12.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="12.js" working-dir="$PROJECT_DIR$/12.insertion-sort" />
     <configuration name="13.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="13.js" working-dir="$PROJECT_DIR$/13.about-recursive" />
+    <configuration name="14.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="14.js" working-dir="$PROJECT_DIR$/14.quick-sort" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -443,19 +447,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.10.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.11.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.12.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.13.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.10.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.11.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.12.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.13.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.14.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.13.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.12.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.11.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.10.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.14.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.13.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.12.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.11.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.10.js" />
       </list>
     </recent_temporary>
   </component>
@@ -534,11 +538,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599497406416</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="- Recursive call finished">
+      <created>1601707391723</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601707391723</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107517000" />
+    <option name="totallyTimeSpent" value="109708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="966" y="0" width="957" height="1080" extended-state="0" />
@@ -562,7 +573,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4045881" sideWeight="0.4847682" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4045881" sideWeight="0.4847682" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.4794702" order="7" side_tool="false" content_ui="tabs" />
@@ -646,7 +657,8 @@
     <MESSAGE value="- Algo entry section has finished" />
     <MESSAGE value="- HashTable was finished&#10;- HasTable collision is solved by chaining has finished" />
     <MESSAGE value="- HasTable collision is solved by linear has finished&#10;- Bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="- HasTable collision is solved by linear has finished&#10;- Bug fix" />
+    <MESSAGE value="- Recursive call finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Recursive call finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1025,18 +1037,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14.quick-sort/14.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13.about-recursive/13.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.quick-sort/14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
