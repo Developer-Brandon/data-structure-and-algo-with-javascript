@@ -19,7 +19,7 @@ function bfs(graph, startNode) {
  console.log(nodeList)
 
  while(nodeList.length) {
-  let node = nodeList.shift()
+  let node = nodeList.pop()
   if (!visitedNodeList.includes(node)) {
    visitedNodeList.push(node)
    console.log('visitedNodeList: ', visitedNodeList)

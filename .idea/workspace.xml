@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad4fdf84-7067-4b72-9dd1-71198c66e1d3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/18.breadth-first-search/18.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/19.depth-first-search/19.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/18.breadth-first-search/18.js" afterPath="$PROJECT_DIR$/18.breadth-first-search/18.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,8 +88,18 @@
       <file leaf-file-name="18.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/18.breadth-first-search/18.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="312">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/19.depth-first-search/19.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -99,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
               <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.queue/library/Queue.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -187,6 +188,7 @@
         <option value="$PROJECT_DIR$/17.sequetial-search/17.js" />
         <option value="$PROJECT_DIR$/17.sequential-search/17.js" />
         <option value="$PROJECT_DIR$/18.breadth-first-search/18.js" />
+        <option value="$PROJECT_DIR$/19.depth-first-search/19.js" />
       </list>
     </option>
   </component>
@@ -274,11 +276,6 @@
               <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="18.breadth-first-search" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -348,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.18.js">
+  <component name="RunManager" selected="Node.js.19.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -389,11 +386,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="14.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="14.js" working-dir="$PROJECT_DIR$/14.quick-sort" />
     <configuration name="15.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="15.js" working-dir="$PROJECT_DIR$/15.merge-sort" />
     <configuration name="16.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="16.js" working-dir="$PROJECT_DIR$/16.binary-search" />
     <configuration name="17.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="17.js" working-dir="$PROJECT_DIR$/17.sequential-search" />
     <configuration name="18.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="18.js" working-dir="$PROJECT_DIR$/18.breadth-first-search" />
+    <configuration name="19.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="19.js" working-dir="$PROJECT_DIR$/19.depth-first-search" />
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -435,19 +432,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.14.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.15.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.16.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.17.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.18.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.15.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.16.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.17.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.18.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.19.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.18.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.17.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.16.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.15.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.14.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.19.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.18.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.17.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.16.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.15.js" />
       </list>
     </recent_temporary>
   </component>
@@ -561,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601733195593</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="- Breadth first search is finished">
+      <created>1601777074283</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601777074283</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126143000" />
+    <option name="totallyTimeSpent" value="126777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="966" y="0" width="957" height="1080" extended-state="0" />
@@ -678,7 +682,8 @@
     <MESSAGE value="- Merged sort finished" />
     <MESSAGE value="- Binary search is finished" />
     <MESSAGE value="- Sequential search is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Sequential search is finished" />
+    <MESSAGE value="- Breadth first search is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Breadth first search is finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -702,13 +707,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04.linked-list/vo/Node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09.hash-table-solve-collision-by-linear/09.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
@@ -1067,10 +1065,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/19.depth-first-search/19.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/18.breadth-first-search/18.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="312">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding />
         </state>
       </provider>
